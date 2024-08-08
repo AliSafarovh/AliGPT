@@ -1,0 +1,17 @@
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\bin\Release\net8.0\UniversityApi.Service.deps.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\bin\Release\net8.0\UniversityApi.Service.runtimeconfig.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\bin\Release\net8.0\UniversityApi.Service.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\bin\Release\net8.0\UniversityApi.Service.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\bin\Release\net8.0\UniversityApi.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\bin\Release\net8.0\UniversityApi.Data.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.csproj.AssemblyReference.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.AssemblyInfoInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.AssemblyInfo.cs
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\Universi.8F930512.Up2Date
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\refint\UniversityApi.Service.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\UniversityApi.Service.genruntimeconfig.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\University\UniversityApi.Service\obj\Release\net8.0\ref\UniversityApi.Service.dll

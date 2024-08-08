@@ -1,0 +1,17 @@
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\bin\Release\net8.0\LibraryApi.Service.deps.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\bin\Release\net8.0\LibraryApi.Service.runtimeconfig.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\bin\Release\net8.0\LibraryApi.Service.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\bin\Release\net8.0\LibraryApi.Service.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.csproj.AssemblyReference.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.AssemblyInfoInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.AssemblyInfo.cs
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\refint\LibraryApi.Service.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryApi.Service.genruntimeconfig.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\ref\LibraryApi.Service.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\bin\Release\net8.0\LibraryApi.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\bin\Release\net8.0\LibraryApi.Data.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\LibraryApi.Service\obj\Release\net8.0\LibraryA.E0B57150.Up2Date

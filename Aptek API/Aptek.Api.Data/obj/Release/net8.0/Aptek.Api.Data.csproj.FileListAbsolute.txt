@@ -1,0 +1,14 @@
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\bin\Release\net8.0\Aptek.Api.Data.deps.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\bin\Release\net8.0\Aptek.Api.Data.runtimeconfig.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\bin\Release\net8.0\Aptek.Api.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\bin\Release\net8.0\Aptek.Api.Data.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.csproj.AssemblyReference.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.AssemblyInfoInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.AssemblyInfo.cs
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\refint\Aptek.Api.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\Aptek.Api.Data.genruntimeconfig.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\Aptek API\Aptek.Api.Data\obj\Release\net8.0\ref\Aptek.Api.Data.dll

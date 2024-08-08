@@ -1,0 +1,14 @@
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\bin\Release\net8.0\AliCars.Data.deps.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\bin\Release\net8.0\AliCars.Data.runtimeconfig.json
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\bin\Release\net8.0\AliCars.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\bin\Release\net8.0\AliCars.Data.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.csproj.AssemblyReference.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.AssemblyInfoInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.AssemblyInfo.cs
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.csproj.CoreCompileInputs.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\refint\AliCars.Data.dll
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.pdb
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\AliCars.Data.genruntimeconfig.cache
+C:\Users\samun\Documents\C#191\Coder\API.Tasks\AliCars.Api\AliCars.Data\obj\Release\net8.0\ref\AliCars.Data.dll

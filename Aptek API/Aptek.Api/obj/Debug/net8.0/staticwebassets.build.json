@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s4LWLCFvVyptiWjV8yLnRJ5wndOYJjmjvUkUrzM9uvQ=",
+  "Source": "Aptek.Api",
+  "BasePath": "_content/Aptek.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

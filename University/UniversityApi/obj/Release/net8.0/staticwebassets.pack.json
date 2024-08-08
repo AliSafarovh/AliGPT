@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\University\\UniversityApi\\wwwroot\\students\\e5c8ff66-7b69-433e-a721-64601d88d649_Ekran Görüntüsü (6).png",
+      "PackagePath": "staticwebassets\\students\\e5c8ff66-7b69-433e-a721-64601d88d649_Ekran Görüntüsü (6).png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.UniversityApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.UniversityApi.props",
+      "PackagePath": "build\\UniversityApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UniversityApi.props",
+      "PackagePath": "buildMultiTargeting\\UniversityApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.UniversityApi.props",
+      "PackagePath": "buildTransitive\\UniversityApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

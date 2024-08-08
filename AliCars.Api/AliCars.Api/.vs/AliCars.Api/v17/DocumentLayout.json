@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8680D769-DAE5-4AC2-8CF4-08B4C28F4197}|AliCars.Api.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\alicars.api\\alicars.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680D769-DAE5-4AC2-8CF4-08B4C28F4197}|AliCars.Api.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08AF0D0-E188-4D3E-ADDE-150359655C26}|..\\AliCars.Data\\AliCars.Data.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\alicars.api\\alicars.data\\dtos\\categorydto\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08AF0D0-E188-4D3E-ADDE-150359655C26}|..\\AliCars.Data\\AliCars.Data.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\alicars.api\\alicars.data\\dtos\\categorydto\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8680D769-DAE5-4AC2-8CF4-08B4C28F4197}|AliCars.Api.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\alicars.api\\alicars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8680D769-DAE5-4AC2-8CF4-08B4C28F4197}|AliCars.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274B2131-BEE6-4079-87F4-6D0A9CB53925}|..\\AliCars.Services\\AliCars.Services.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\alicars.api\\alicars.services\\implementations\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:06:10.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryPostDTO.cs",
+              "RelativeDocumentMoniker": "..\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryPostDTO.cs",
+              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryPostDTO.cs",
+              "RelativeToolTip": "..\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryPostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:00:12.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryGetDTO.cs",
+              "RelativeDocumentMoniker": "..\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryGetDTO.cs",
+              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryGetDTO.cs",
+              "RelativeToolTip": "..\\AliCars.Data\\DTOs\\CategoryDTO\\CategoryGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:59:28.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Services\\Implementations\\GenericService.cs",
+              "RelativeDocumentMoniker": "..\\AliCars.Services\\Implementations\\GenericService.cs",
+              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Services\\Implementations\\GenericService.cs",
+              "RelativeToolTip": "..\\AliCars.Services\\Implementations\\GenericService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:38:16.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\AliCars.Api\\AliCars.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:13:05.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
