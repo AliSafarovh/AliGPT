@@ -1,30 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\",
+  "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\productproject\\my project\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE27D78-DD2E-4A97-834E-E39A0DF9EF22}|ConsolUI\\ConsolUI.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\productproject\\my project\\consolui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE27D78-DD2E-4A97-834E-E39A0DF9EF22}|ConsolUI\\ConsolUI.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\consolui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE27D78-DD2E-4A97-834E-E39A0DF9EF22}|ConsolUI\\ConsolUI.csproj|solutionrelative:consolui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D6E7E50-E99C-4805-B788-77B717FE3F17}|DataAccess\\DataAccess.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\productproject\\my project\\dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6E7E50-E99C-4805-B788-77B717FE3F17}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D6E7E50-E99C-4805-B788-77B717FE3F17}|DataAccess\\DataAccess.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\productproject\\my project\\dataaccess\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6E7E50-E99C-4805-B788-77B717FE3F17}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199D4D4C-CF8A-4EED-863F-907495235B7D}|Entities\\Entities.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\productproject\\my project\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199D4D4C-CF8A-4EED-863F-907495235B7D}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199D4D4C-CF8A-4EED-863F-907495235B7D}|Entities\\Entities.csproj|c:\\users\\samun\\documents\\c#191\\coder\\api.tasks\\productproject\\my project\\entities\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199D4D4C-CF8A-4EED-863F-907495235B7D}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +58,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\DataAccess\\Abstract\\ICategoryDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICategoryDal.cs",
-              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\DataAccess\\Abstract\\ICategoryDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\ICategoryDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:21:27.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrderDal.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\DataAccess\\Abstract\\IOrderDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IOrderDal.cs",
-              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\DataAccess\\Abstract\\IOrderDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\IOrderDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:20:54.592Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\Entities\\Concrete\\Category.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
-              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\Entities\\Concrete\\Category.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:19:03.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\Entities\\Concrete\\Order.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Order.cs",
-              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\Entities\\Concrete\\Order.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:19:02.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EfEntityRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Constants\\Messages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:32:35.981Z",
+              "WhenOpened": "2024-08-09T13:14:07.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\ConsolUI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\ConsolUI\\Program.cs",
               "RelativeDocumentMoniker": "ConsolUI\\Program.cs",
-              "ToolTip": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ProductProject\\My Project\\ConsolUI\\Program.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\ConsolUI\\Program.cs",
               "RelativeToolTip": "ConsolUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwBYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:18:35.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T13:02:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:44:24.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuccessDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:36:53.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuccessResult.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\SuccessResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessResult.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\SuccessResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:16:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\Result.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\Result.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:34:36.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\DataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\DataResult.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\DataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\DataResult.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:45:28.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\IResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IResult.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\IResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\IResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:34:18.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\IDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IDataResult.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\IDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\IDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:32:29.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:19:24.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorResult.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\ErrorResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorResult.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\ErrorResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:55:29.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAawD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:32:57.307Z"
             }
           ]
         },
