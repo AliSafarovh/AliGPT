@@ -10,7 +10,7 @@ namespace Core.Utilities.Results
     {
 
         // bunlar void metodlar ucundur.
-        bool Success { get; }
+        bool Success { get; }   //get sadece oxuna bilen metodlar 
         string Message { get; }
     }
 }

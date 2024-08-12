@@ -9,12 +9,12 @@ namespace Core.Utilities.Results
     public class Result : IResult
     {
        
-        public Result(bool success, string message):this(success)
+        public Result(bool success, string message):this(success) //hem true qaytarir hem de mesaj qaytaran metod
         {
            Message = message; 
         }
-        public Result(bool success)
-        {           
+        public Result(bool success) //sadece true qaytaran metod
+        {            
             Success = success;
         }
 
