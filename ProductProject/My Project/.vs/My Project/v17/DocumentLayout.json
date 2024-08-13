@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC1F8711-0E9C-4698-ABC8-CF2A2B6B4BAD}|WebAPI\\WebAPI.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1F8711-0E9C-4698-ABC8-CF2A2B6B4BAD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataResult.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\DataResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\DataResult.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\DataResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\DataResult.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAMAAAA",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T11:41:26.448Z",
+              "WhenOpened": "2024-08-13T12:03:18.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IResult.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\IResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IResult.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\IResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\IResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T10:57:21.076Z",
+              "WhenOpened": "2024-08-13T09:28:02.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\Result.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Result.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Results\\Result.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\Result.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAkAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T10:14:20.437Z",
+              "WhenOpened": "2024-08-13T08:21:06.367Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },

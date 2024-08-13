@@ -23,7 +23,7 @@ namespace Business.Concrete
 
         public IResult Add(Product product)
         {
-            if (product.ProductName.Length >= 2)
+            if (product.ProductName.Length <= 2)
             {
                 return new ErrorResult(Messages.ProductNameInvalid);
             }
@@ -31,12 +31,17 @@ namespace Business.Concrete
             return new SuccessResult("Mehsul Elave Edildi");
         }
 
+        public IResult Delete(Product product)
+        {
+            _productDal.Delete(product);
+            return new SuccessResult("Silinme Tamamlandi");
+        }
         public IDataResult <List<Product>> GetAll()
         {
-            if(DateTime.Now.Hour == 22)
-            {
-                return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
-            }
+            //if (DateTime.Now.Hour == 15)
+            //{
+            //    return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
+            //}
             return new SuccessDataResult<List<Product>>(_productDal.GetAll(),Messages.ProductListed);
         }
 

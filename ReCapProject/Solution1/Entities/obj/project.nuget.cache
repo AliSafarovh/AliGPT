@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XyKSG0W1/b0=",
+  "dgSpecHash": "Kh9i1BaqxMk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samun\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\samun\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

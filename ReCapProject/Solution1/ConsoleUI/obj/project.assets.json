@@ -2828,11 +2828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2853,14 +2853,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\Business\\Business.csproj"
+            "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Business.csproj"
             },
-            "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\ReCapProject\\Solution1\\Entities\\Entities.csproj"
+            "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Entities\\Entities.csproj"
             }
           }
         }
