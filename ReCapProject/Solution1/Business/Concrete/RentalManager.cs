@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.Constants;
 using Core.Utilities;
 using DataAccess.Abstract;
 using DataAccess.Console.EntityFramework;
@@ -21,18 +22,18 @@ namespace Business.Concrete
         public IResult Add(Rental rental)
         {
             _rentalDal.Add(rental);
-            return new SuccessResult("Yuklenme Tamamlandi");
+            return new SuccessResult(Messages.ProductAdded);
         }
 
         public IResult Delete(Rental rental)
         {
             _rentalDal.Delete(rental);
-            return new SuccessResult("Silinme Tamamlandi");
+            return new SuccessResult(Messages.ProductDeleted);
         }
 
         public IDataResult<List<Rental>> GetAll()
         {
-            return new DataResult<List<Rental>>(_rentalDal.GetAll(), true, "Brandlarin Siyahisi");
+            return new DataResult<List<Rental>>(_rentalDal.GetAll(), true,Messages.ProductListed);
         }
 
 
@@ -40,7 +41,7 @@ namespace Business.Concrete
         {
             _rentalDal.Update(rental);
 
-            return new SuccessResult("Mehsul Ugurla Deyisdirildi");
+            return new SuccessResult(Messages.ProductUpdated);
         }
 
         IDataResult<Rental> IRentalService.GetById(int rentalId)

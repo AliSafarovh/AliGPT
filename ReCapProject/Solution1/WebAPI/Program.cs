@@ -1,7 +1,9 @@
 
 using Business.Abstract;
 using Business.Concrete;
+using Business.Console;
 using DataAccess.Abstract;
+using DataAccess.Concrete.EntityFramework;
 using DataAccess.Console.EntityFramework;
 
 namespace WebAPI
@@ -19,7 +21,17 @@ namespace WebAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddSingleton<ICarService, CarManager>();
-            builder.Services.AddSingleton<ICarDal,EfCarDal>();   
+            builder.Services.AddSingleton<ICarDal,EfCarDal>();
+            builder.Services.AddSingleton<IBrandServices, BrandManager>();
+            builder.Services.AddSingleton<IBrandDal, EfBrandDal>();
+            builder.Services.AddSingleton<IColorService, ColorManager>();
+            builder.Services.AddSingleton<IColorDal, EfColorDal>();
+            builder.Services.AddSingleton<ICustomerService, CustomerManager>();
+            builder.Services.AddSingleton<ICustomerDal, EfCustomerDal>();
+            builder.Services.AddSingleton<IRentalService, RentalManager>();
+            builder.Services.AddSingleton<IRentalDal, EfRentalDal>();
+            builder.Services.AddSingleton<IUserService, UserManager>();
+            builder.Services.AddSingleton<IUserDal, EfUserDal>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

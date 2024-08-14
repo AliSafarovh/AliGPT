@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\business\\constant\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\constant\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\business\\concrete\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\concrete\\rentalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\business\\concrete\\colormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\concrete\\colormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\solution1\\business\\concrete\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\concrete\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:24:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\UserManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:22:14.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\RentalManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\RentalManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\RentalManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\RentalManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:21:04.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\CustomerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CustomerManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA9wCgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:19:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\ColorManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ColorManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\ColorManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ColorManager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAEwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:16:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\CarManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CarManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\CarManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CarManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAMwBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:14:50.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\BrandManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\BrandManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\BrandManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\BrandManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAwwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:09:42.699Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarManager.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\CarManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\CarManager.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Concrete\\CarManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\CarManager.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowC0AAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:47:08.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\WebAPI\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CarsController.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\WebAPI\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAwEQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:36:53.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABBAAAA",
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Constant\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constant\\Messages.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\Solution1\\Business\\Constant\\Messages.cs",
+              "RelativeToolTip": "Business\\Constant\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:32:09.823Z"
+              "WhenOpened": "2024-08-14T14:09:10.473Z",
+              "EditorCaption": ""
             }
           ]
         },

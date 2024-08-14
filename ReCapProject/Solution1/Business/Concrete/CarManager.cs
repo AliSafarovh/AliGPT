@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Entities.DTOs;
 using Core.Utilities;
+using Business.Constants;
 
 namespace Business.Concrete
 {
@@ -25,7 +26,7 @@ namespace Business.Concrete
             if (car.CarName.Length > 2 && car.DailyPrice > 0)
             {
                 _carDal.Add(car);
-                return new SuccessResult("Yuklenme Tamamlandi");
+                return new SuccessResult(Messages.ProductAdded);
             }
             else
             {
@@ -38,12 +39,12 @@ namespace Business.Concrete
         public IResult Delete(Car car)
         {
             _carDal.Delete(car);
-            return new SuccessResult("Silinme Tamamlandi");
+            return new SuccessResult(Messages.ProductDeleted);
         }
 
         public IDataResult<List<Car>> GetAll()
         {
-            return new DataResult<List<Car>>(_carDal.GetAll(), true, "Masinlarin Siyahisi");
+            return new DataResult<List<Car>>(_carDal.GetAll(), true, Messages.ProductListed);
         }
 
         public IDataResult<List<CarDetailDto>> GetCarDetails()
@@ -53,18 +54,18 @@ namespace Business.Concrete
 
         public IDataResult<List<Car>> GetCarsByBrandId(int brandId)
         {
-            return new SuccessDataResult<List<Car>>(_carDal.GetAll(b => b.BrandId == brandId));
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(b => b.BrandId == brandId),Messages.ProductListed);
         }
 
         public IDataResult<List<Car>> GetCarsByColorId(int colorId)
         {
-            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == colorId));
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == colorId),Messages.ProductListed);
         }
 
         public IResult Update(Car car)
         {
            _carDal.Update(car);
-            return new SuccessResult("Mehsul Ugurla Deyisdirildi");
+            return new SuccessResult(Messages.ProductDeleted);
         }
     }
 }

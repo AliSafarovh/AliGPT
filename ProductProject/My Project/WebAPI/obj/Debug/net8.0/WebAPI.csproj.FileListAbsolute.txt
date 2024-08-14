@@ -79,3 +79,5 @@ C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\obj\Debug\net8
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\bin\Debug\net8.0\Castle.Core.dll

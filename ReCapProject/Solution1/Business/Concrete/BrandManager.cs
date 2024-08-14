@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.Constants;
 using Core.Utilities;
 using DataAccess.Abstract;
 using DataAccess.Console.EntityFramework;
@@ -21,30 +22,30 @@ namespace Business.Console
         public IResult Add(Brand brand)
         {
             _brandDal.Add(brand);
-            return new SuccessResult("Yuklenme Tamamlandi");
+            return new SuccessResult(Messages.ProductAdded);
         }
 
         public IResult Delete(Brand brand)
         {
             _brandDal.Delete(brand);
-            return new SuccessResult("Silinme Tamamlandi");
+            return new SuccessResult(Messages.ProductDeleted);
         }
 
         public IDataResult<List<Brand>> GetAll()
         {
-            return new DataResult<List<Brand>>(_brandDal.GetAll(), true, "Brandlarin Siyahisi");
+            return new DataResult<List<Brand>>(_brandDal.GetAll(), true, Messages.ProductListed);
         }
 
         public IDataResult<List<Brand>> GetById(int brandId)
         {
-            return new SuccessDataResult<List<Brand>>(_brandDal.GetAll(b => b.BrandId == brandId));
+            return new SuccessDataResult<List<Brand>>(_brandDal.GetAll(b => b.BrandId == brandId),Messages.ProductListed);
         }
 
         public IResult Update(Brand brand)
         {
             _brandDal.Update(brand);
 
-            return new SuccessResult("Mehsul Ugurla Deyisdirildi");
+            return new SuccessResult(Messages.ProductUpdated);
         }
     }
 }

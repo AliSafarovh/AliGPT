@@ -16,7 +16,7 @@ namespace WebAPI.Controllers
             _carService = carService;
         }
 
-        [HttpGet]
+        [HttpGet("getall")]
 
         public IActionResult Get()
         {
@@ -30,9 +30,10 @@ namespace WebAPI.Controllers
             }
 
         }
+        
 
         [HttpPost("add")]
-        public IActionResult Post(Car car)
+        public IActionResult Post([FromForm] Car car)
         {
             var result = _carService.Add(car);
             if (result.Success)
@@ -43,7 +44,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpPut("update")]
-        public IActionResult Put(Car car)
+        public IActionResult Put([FromForm] Car car)
         {
             var result = _carService.Update(car);
             if (result.Success)
@@ -53,9 +54,9 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
 
-        [HttpDelete]
+        [HttpDelete("delete")]
 
-       public IActionResult Delete(Car car)
+       public IActionResult Delete([FromForm] Car car)
         {
             var result=_carService.Delete(car);
             if (result.Success) 

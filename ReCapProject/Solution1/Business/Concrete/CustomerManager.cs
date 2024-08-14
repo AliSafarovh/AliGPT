@@ -1,6 +1,8 @@
 ﻿using Business.Abstract;
+using Business.Constants;
 using Core.Utilities;
 using DataAccess.Abstract;
+using DataAccess.Console.EntityFramework;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -20,26 +22,25 @@ namespace Business.Concrete
         public IResult Add(Customer customer)
         {
             _customerDal.Add(customer);
-            return new SuccessResult("Yuklenme Tamamlandi");
+            return new SuccessResult(Messages.ProductAdded);
         }
 
         public IResult Delete(Customer customer)
         {
             _customerDal.Delete(customer);
-            return new SuccessResult("Silinme Tamamlandi");
+            return new SuccessResult(Messages.ProductDeleted);
         }
 
         public IDataResult<List<Customer>> GetAll()
         {
-            return new DataResult<List<Customer>>(_customerDal.GetAll(), true, "Renglerin Siyahisi");
+            return new DataResult<List<Customer>>(_customerDal.GetAll(), true, Messages.ProductListed);
         }
-
 
         public IResult Update(Customer customer )
         {
             _customerDal.Update(customer);
 
-            return new SuccessResult("Mehsul Ugurla Deyisdirildi");
+            return new SuccessResult(Messages.ProductUpdated);
         }
     }
 }
