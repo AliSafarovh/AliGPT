@@ -50,7 +50,7 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
         [HttpPost("delete")]
-        public IActionResult Delete(Product product)
+        public IActionResult Delete([FromForm]Product product)
         {
             var result =_productService.Delete(product);
             if (result.Success) 

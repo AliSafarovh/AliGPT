@@ -98,3 +98,5 @@ C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\obj\Debug\ne
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\obj\Debug\net8.0\ConsolUI.pdb
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\obj\Debug\net8.0\ConsolUI.genruntimeconfig.cache
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\obj\Debug\net8.0\ref\ConsolUI.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
