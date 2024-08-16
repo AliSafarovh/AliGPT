@@ -26,8 +26,8 @@ namespace Business.Concrete
         }
 
 
-       [ValidationAspect(typeof (ProductValidator))] //Atribut- yeniki Add metodunu
-                                                     //run etmemisden evvel Atributu ise sal 
+       [ValidationAspect(typeof (ProductValidator))] //Atribut-Add metodunu run etmemisden evvel Atributu ise sal 
+       //Meselen: ProductValidator atributu ile dogralama et sonra Add metodunu run et
         public IResult Add(Product product)
         {
             #region Validation Temel kod

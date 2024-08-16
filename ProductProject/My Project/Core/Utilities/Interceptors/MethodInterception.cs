@@ -14,7 +14,7 @@ namespace Core.Utilities.Interceptors
         public override void Intercept(IInvocation invocation)
         {
             var isSuccess = true;
-            OnBefore(invocation);
+            OnBefore(invocation); 
             try
             {
                 invocation.Proceed();

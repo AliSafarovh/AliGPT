@@ -17,7 +17,7 @@ namespace Core.Utilities.Interceptors
                 (true).ToList(); //classin atributunlarini oxu 
             var methodAttributes = type.GetMethod(method.Name)
                 .GetCustomAttributes<MethodInterceptionBaseAttribute>(true); //metodun atributlarini oxu ve
-                                                                             //onlari bir listeye qpy
+                                                                             //onlari bir listeye qoy
             classAttributes.AddRange(methodAttributes);
             //classAttributes.Add(new ExceptionLogAspect(typeof(FileLogger)));
             //Butun metodlari avtomatik Loglama yapir.
