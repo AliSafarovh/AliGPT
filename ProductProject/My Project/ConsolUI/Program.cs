@@ -13,21 +13,24 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            ProductManager productManager = new ProductManager(new EfProductDal());
-            var result = productManager.GetProductDetails();
-            if (result.Success == true)
-            {
-                foreach (var product in result.Data)
-                {
-                    Console.WriteLine(product.ProductName + "/" + product.CategoryName);
-                }
-            }
-            else 
-            {
-                Console.WriteLine(result.Message);
-            }
-
+            //ProductManager productManager = new ProductManager(new EfProductDal());
+            //var result = productManager.GetProductDetails();
+            //if (result.Success == true)
+            //{
+            //    foreach (var product in result.Data)
+            //    {
+            //        Console.WriteLine(product.ProductName + "/" + product.CategoryName);
+            //    }
+            //}
+            //else 
+            //{
+            //    Console.WriteLine(result.Message);
+            //}
+            
             #region Validators
+
+            //Cross Custing Concerns
+            //Validation, Log , CAche, Transaction, Authoritation ve s. 
 
             //Metod ise salinir.Atribut devreye girir.Evvelce atributun hansi tip oldugunu yoxlanilir.
             //Atribur ValidationAspect icinde yoxlanilirki bu IValidation daxilinde gelen Validation metodudurmu? eger deyilse Error.Message versin,

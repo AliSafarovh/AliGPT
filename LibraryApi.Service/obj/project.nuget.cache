@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpufO65h6Qk=",
+  "dgSpecHash": "WTE2BOGaDIU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\LibraryApi.Service\\LibraryApi.Service.csproj",
+  "projectFilePath": "C:\\Users\\samun\\Desktop\\MyProject\\LibraryApi.Service\\LibraryApi.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samun\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\samun\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

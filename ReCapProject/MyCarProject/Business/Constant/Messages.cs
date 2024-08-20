@@ -15,6 +15,9 @@ namespace Business.Constants
         public static string ProductListed = "Mehsullarin Siyahisi";
         public static string ProductDeleted = "Silinme Tamamlandi";
         public static string ProductUpdated = "Deyisdirilme Ugurla Tamamlandi";
-
+        public static string ImageAdded = "Sekil Yuklendi";
+        public static string ImageDeleted = "Sekil Silindi";
+        public static string ImageUpdated = "Sekil Ugurla Deyisdirildi";
+        public static string ImageLimitInvalid = "5 den cox sekil elave ede bilmezsiniz";
     }
 }

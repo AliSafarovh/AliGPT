@@ -10,17 +10,17 @@ using System.Threading.Tasks;
 
 namespace Core.Apects.Autofac.Validation
 {
-    public class ValidationAspect : MethodInterception
+    public class ValidationAspect : MethodInterception 
     {
         private Type _validatorType;  
-        public ValidationAspect(Type validatorType)
+        public ValidationAspect(Type validatorType) //Mene bir Aspect tipi ver
         {
-            if (!typeof(IValidator).IsAssignableFrom(validatorType))
+            if (!typeof(IValidator).IsAssignableFrom(validatorType)) //Validator oldugu yoxlanilir
             {
                 throw new System.Exception("Bu bir Dogrulama sinifi deyil");
             }
 
-            _validatorType = validatorType;
+            _validatorType = validatorType; //ve Aspect hazirdir
         }
         protected override void OnBefore(IInvocation invocation)
         {

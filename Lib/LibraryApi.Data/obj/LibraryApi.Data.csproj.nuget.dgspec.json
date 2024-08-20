@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj": {}
+    "C:\\Users\\samun\\Desktop\\MyProject\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj": {
+    "C:\\Users\\samun\\Desktop\\MyProject\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj",
+        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj",
         "projectName": "LibraryApi.Data",
-        "projectPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj",
+        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\Lib\\LibraryApi.Data\\LibraryApi.Data.csproj",
         "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samun\\Documents\\C#191\\Coder\\API.Tasks\\Lib\\LibraryApi.Data\\obj\\",
+        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\Lib\\LibraryApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

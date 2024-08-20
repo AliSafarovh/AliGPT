@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\core\\crosscuttingconcerns\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\core\\apects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|solutionrelative:core\\apects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\business\\validationrules\\fluentvalidation\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\core\\utilities\\interceptors\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54298A73-2828-4661-9B8C-22F730F934DF}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\webapi\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,151 +17,21 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValidationAspect.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "RelativeDocumentMoniker": "Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "RelativeToolTip": "Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:29:55.416Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarManager.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\Concrete\\CarManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\CarManager.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\Concrete\\CarManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\CarManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAewCcAAAAdAAAAAAAAAA==",
+              "Title": "CarImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\Controllers\\CarImagesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CarImagesController.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\Controllers\\CarImagesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CarImagesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:25:17.679Z",
+              "WhenOpened": "2024-08-20T11:57:32.026Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MethodInterceptionBaseAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:15:14.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutofacBusinessModule.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:33:41.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarValidator.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:04:04.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValidationTool.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:10:19.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MethodInterception.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:15:07.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EfEntityRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAnwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:21:14.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AspectInterceptorSelector.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:15:00.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Business",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\Business.csproj",
-              "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\Business.csproj",
-              "RelativeToolTip": "Business\\Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-16T12:01:07.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:40:57.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\crosscuttingconcerns\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\apects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\apects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2DCF0-8734-4B21-9E22-8A29E0F06E90}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE27D78-DD2E-4A97-834E-E39A0DF9EF22}|ConsolUI\\ConsolUI.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\consolui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DE27D78-DD2E-4A97-834E-E39A0DF9EF22}|ConsolUI\\ConsolUI.csproj|solutionrelative:consolui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\productproject\\my project\\business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFE2F68-B009-4987-90B0-67AF4E6C478F}|Business\\Business.csproj|solutionrelative:business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductValidator.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:59:53.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\ConsolUI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsolUI\\Program.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\ConsolUI\\Program.cs",
-              "RelativeToolTip": "ConsolUI\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:22:02.674Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AspectInterceptorSelector.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T10:33:02.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValidationTool.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T10:08:03.924Z",
+              "WhenOpened": "2024-08-20T08:50:42.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ValidationAspect.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "RelativeDocumentMoniker": "Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "RelativeToolTip": "Core\\Apects\\Autofac\\Validation\\ValidationAspect.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:42:15.018Z",
+              "WhenOpened": "2024-08-20T08:28:55.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MethodInterception.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:10:55.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T08:29:02.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Constants\\Messages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:41:28.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeToolTip": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:21:35.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:13:35.028Z"
             }
           ]
         },

@@ -19,6 +19,7 @@ namespace Business.Abstract
         IDataResult <List<ProductDetailDto>> GetProductDetails();
         IResult Add(Product product); //Result tipi bize metodun icrasi haqqinda mesaj gonderir
          IDataResult <Product> GetById(int productId);
+        IResult Update(Product product);
         IResult Delete(Product product);
     }
 }
