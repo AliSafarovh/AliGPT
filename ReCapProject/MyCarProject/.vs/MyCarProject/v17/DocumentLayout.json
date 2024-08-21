@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\webapi\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C441F528-1391-4755-ACC5-59F48CD9EDB4}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|c:\\users\\samun\\desktop\\myproject\\recapproject\\mycarproject\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2C71F9-173D-4FF8-BFF2-F0F6B39AE35E}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:12:43.397Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
