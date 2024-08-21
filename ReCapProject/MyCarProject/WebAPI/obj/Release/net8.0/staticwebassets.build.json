@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+veQk30JtWZkFSeVo2psDwfNS0xvIo4GhSar4JWLajE=",
+  "Hash": "IL6iZvI7yfuWVdoGfZ6rJsdSJ2OIk3LTuoUwNennfVs=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -15,5 +15,44 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\wwwroot\\Cars\\1cfe955c-5f29-4b7a-b150-ab821bbc4e93.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Cars/1cfe955c-5f29-4b7a-b150-ab821bbc4e93.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cars\\1cfe955c-5f29-4b7a-b150-ab821bbc4e93.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\wwwroot\\Cars\\ea1c4c9e-22b7-4166-9e0a-b05d22bc52ec.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samun\\Desktop\\MyProject\\ReCapProject\\MyCarProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Cars/ea1c4c9e-22b7-4166-9e0a-b05d22bc52ec.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cars\\ea1c4c9e-22b7-4166-9e0a-b05d22bc52ec.jpg"
+    }
+  ]
 }

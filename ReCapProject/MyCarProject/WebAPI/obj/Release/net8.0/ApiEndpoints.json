@@ -123,7 +123,7 @@
     "ContainingType": "WebAPI.Controllers.CarImagesController",
     "Method": "Delete",
     "RelativePath": "api/CarImages/delete",
-    "HttpMethod": "GET",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -181,7 +181,7 @@
     "ContainingType": "WebAPI.Controllers.CarImagesController",
     "Method": "Update",
     "RelativePath": "api/CarImages/update",
-    "HttpMethod": "POST",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
