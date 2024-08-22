@@ -19,5 +19,6 @@ namespace Business.Constants
         public static string ImageDeleted = "Sekil Silindi";
         public static string ImageUpdated = "Sekil Ugurla Deyisdirildi";
         public static string ImageLimitInvalid = "5 den cox sekil elave ede bilmezsiniz";
+        internal static string ImageNotFound = "Sekil Tapilmadi";
     }
 }

@@ -1,70 +1,65 @@
-﻿using Microsoft.AspNetCore.Http;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.IO; // File.Exists və File.Delete üçün
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
+using Core.Utilities.Helper.PathConstants; 
+
 
 namespace Core.Utilities.Helper.FileHelper
 {
     public class FileHelperManager : IFileHelper
     {
         #region FileDelete
-        public void Delete(string filePath) //filePath CarImageManager'dan gelen dosyanin kaydedildigi adres adi
+        public void Delete(string filePath)
         {
-            if (File.Exists(filePath)) // Exists bir metoddurki,yuklenen fail yolunu(filepath="wwwroot/images/example.jpg")
-                                       // yoxlayir ve eger sekil varsa geri true doner, eger yoxdursa false doner
+            if (File.Exists(filePath))
             {
-                File.Delete(filePath); //true donerse fayli sil
+                File.Delete(filePath);
             }
-            Console.WriteLine("Yanlis bir yol yazdiniz");
+            else
+            {
+                Console.WriteLine("Yanlış bir yol yazdınız");
+            }
         }
-
         #endregion
-
 
         #region File Update
-
-                                //Fayl           movcud konum,    yeni konum
-        public string Update(IFormFile formFile, string filePath, string root) 
+        public string Update(IFormFile formFile, string filePath, string root)
         {
-            if (File.Exists(filePath)) //dosya uzantisinda dosya varsa
+            if (File.Exists(filePath))
             {
-                File.Delete(filePath); //dosyani sil
+                File.Delete(filePath);
             }
-            return Upload(formFile, root); //yeni dosya ekle
+            return Upload(formFile, root);
         }
-
         #endregion
 
-
         #region File Upload
-                             //fayl tipi     Yuklenecek konum
         public string Upload(IFormFile formFile, string root)
         {
-            if (formFile.Length > 0)//faylin uzunlugunu yoxlayir.Mes:O kb-dan boyukdurse demeli fayl movcuddur.
+            if (formFile.Length > 0)
             {
-                if (!Directory.Exists(root))   //faylin yuklenecek qovlugun yoxlayir
+                if (!Directory.Exists(root))
                 {
-                    Directory.CreateDirectory(root); //eger qovluq movcud deyilse yeni qovluq yaradir
+                    Directory.CreateDirectory(root);
                 }
-                string existsion = Path.GetExtension(formFile.FileName); //existsion, faylın uzantısını alır. əgər faylın adı img.jpgdirsə,
-                                                                         //existsion dəyəri .jpg olur.Bu uzantı, faylın düzgün formatda saxlanması üçün lazımdır.
-                string guid = GuidHelper.GuidHelper.CreateGuid(); //Bu sətr, fayla unikal bir ad yaradır. GUID, hər fayl üçün unikal bir kimlik yaradır, bu da eyni adda başqa bir fayl ilə toqquşmanı önləyir.
-                string filePath = guid + existsion; //unikal GUID və fayl uzantısını birləşdirərək yeni bir fayl adı yaradır, məsələn 12345abcd.jpg.
+                string existsion = Path.GetExtension(formFile.FileName);
+                string guid = GuidHelper.GuidHelper.CreateGuid();
+                string filePath = guid + existsion;
 
-                using (FileStream fileStream = File.Create(root + filePath)) 
+                using (FileStream fileStream = File.Create(Path.Combine(root, filePath)))
                 {
                     formFile.CopyTo(fileStream);
-                    fileStream.Flush(); 
+                    fileStream.Flush();
                     return filePath;
                 }
             }
             return null;
         }
         #endregion
-
-       
     }
 }

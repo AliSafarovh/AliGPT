@@ -1,0 +1,71 @@
+1. DataAccess - Microsoft.EntityFrameworkCore.SqlServer
+
+* using (IDisposable pattern) - Bunun iç?risind? h?r 
+n? varsa istifad? olunduqdan 
+sonra atýlacaq (Bellekde yer tutmur)
+
+2. Core - Microsoft.EntityFrameworkCore.SqlServer
+
+* IOC - Ýnjectionlarý idar? edir 
+
+* AOP - Bir metodun önünd?, bir metodun sonunda, bir metod
+x?ta ver?nd? iþl?y?n kodlarý AOP memarisi il? yazýrýq 
+Log, Validation, Transaction ...
+
+* Autofac - Ýnjectionlarý idar? edir h?mçinin biz? AOP 
+imkaný yaradýr
+
+3. Business/DependencyResolvers/Autofac - Niy? proqram.cs d? 
+yazmýrýq sabah m?n eyni proyektd? 2-ci api d? yaza bil?r?m 
+(Y?ni bu WebApi -d? olmalý deyil)
+
+4. Business - Autofac (NuGet)
+
+5.Business - Autofac.Extras.DynamicProxy (NuGet) 
+
+6. Program.cs - "Autofac's Configurations"
+
+7. WebApi - Autofac.Extensions.DependencyInjection (NuGet)
+
+8. Business - FluentValidation (NuGet)
+
+9. Business/ValidationRules/FluentValidation - ProductValidator
+
+10. Core/CrossCuttingConcerns/Validation - ValidationTool
+
+11. Core - FluentValidation (NuGet)
+
+12. Core/Utilities/Interceptors - Koda müdaxil? 
+
+13. Interceptorlarin iþl?m?si üçün Autofac lazýmdýr
+
+14. Core - Autofac, Autofac.Extensions.DependencyÝnjection,
+Autofac.Extras.DynamicProxy, Castle.DynamicProxy (NuGet)
+
+* Autofac.Extensions.DependencyÝnjection - .Net Core da
+Autofacin iþl?m?si üçündür bu 
+(program.cs fabrika ayarlarý m?s?l?si)
+
+* Autofac.Extras.DynamicProxy - Autofac konteyneri il? 
+Castle DynamicProxy kitabxanasýný inteqrasiya edir
+M?qs?d: Autofac konteynerind? metod 
+interceptorlarýný istifad? etm?y? imkan verir 
+Autofac t?r?find?n idar? olunan obyektl?rin 
+proxy obyektl?rin? çevrilm?sini asanlaþdýrýr.
+
+* Castle DynamicProxy - Proxy obyektl?ri yaratmaq 
+üçün istifad? olunur, Proxy obyekt, real obyektin(metodun) 
+yerin? keçir(?sl metod iþl?m?miþ), Real obyekt? ?slind? 
+çaðýrýþ etm?d?n ?vv?l v? ya sonra ?lav? kodlarý 
+icra ed? bilir (Interceptor vasit?sil?).(Validate, Log ...)
+Real obyekt dedikd? Autofacin konteyneri y?ni - 
+<ProductManager>().As<IProductService>();
+<EfProductDal>().As<IProductDal>();
+Y?ni bunlarýn içind?ki metodlara ümum?n h?r þey? müdaxil?
+
+15. Core/Autofac/Validation - ValidationAspect
+Autofac - i istifad? ed?r?k Aspect yazacam y?ni
+
+16. AutofacBusinessModule - Metod ?lav? edirik
+
+17. Core/Utilities/Business - BusinessRules

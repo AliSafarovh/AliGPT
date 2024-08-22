@@ -2,6 +2,7 @@
 using Business.Constants;
 using Core.Utilities.Business;
 using Core.Utilities.Helper.FileHelper;
+using Core.Utilities.Helper.PathConstants;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -23,24 +24,23 @@ namespace Business.Concrete
             _carImageDal = carImageDal;
             _fileHelper = fileHelper;
         }
-        public IResult Add(IFormFile formFile, CarImage carImage)
+        public IResult Add(IFormFile[] formFiles, CarImage carImage)
         {
             var result = BusinessRules.Run(CheckIfCarImageLimit(carImage.CarId));
             if (result != null)
             {
                 return result;
-            }
-            carImage.ImagePath = _fileHelper.Upload(formFile, PathConstants.ImagesPath);
-            carImage.Date = DateTime.Now;
+            }            
             _carImageDal.Add(carImage);
             return new SuccessResult(Messages.ImageAdded);
-
         }
+
         public IResult Delete(CarImage carImage)
         {
             _fileHelper.Delete(PathConstants.ImagesPath + carImage.ImagePath);
             _carImageDal.Delete(carImage);
             return new SuccessResult(Messages.ImageDeleted);
+
         }
 
         public IDataResult<List<CarImage>> GetAll()
@@ -50,7 +50,7 @@ namespace Business.Concrete
 
         public IDataResult<List<CarImage>> GetByCarId(int carId)
         {
-            var result = BusinessRules.Run(CheckCarImage(carId));
+            var result = BusinessRules.Run(CheckIfCarImageLimit(carId));
             if (result != null)
             {
                 return new ErrorDataResult<List<CarImage>>(GetDefaultImage(carId).Data);
@@ -78,25 +78,18 @@ namespace Business.Concrete
             {
                 return new ErrorResult(Messages.ImageLimitInvalid);
             }
-            return new SuccessResult(Messages.ImageLimitInvalid);
+            return new SuccessResult(Messages.ImageAdded);
         }
 
         private IDataResult<List<CarImage>> GetDefaultImage(int carId)
         {
             List<CarImage> carImages = new List<CarImage>();
-            carImages.Add(new CarImage { CarId = carId, Date = DateTime.Now, ImagePath = "DefaultImage.jpg" });
+            carImages.Add(new CarImage { CarId = carId, Date = DateTime.Now, ImagePath = PathConstants.DefaultImagePath });
             return new SuccessDataResult<List<CarImage>>(carImages);
         }
 
-        private IResult CheckCarImage(int carId)
-        {
-            var result = _carImageDal.GetAll(c => c.CarId == carId).Count();
-            if (result > 0)
-            {
-                return new SuccessResult();
-            }
-            return new ErrorResult();
-        }
+       
+       
 
     }
 }
