@@ -82,3 +82,5 @@ C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\obj\Debug\net8
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

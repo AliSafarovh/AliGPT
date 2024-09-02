@@ -100,3 +100,6 @@ C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\obj\Debug\ne
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\obj\Debug\net8.0\ref\ConsolUI.dll
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\samun\Desktop\MyProject\ProductProject\My Project\ConsolUI\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll

@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.BusinessAspects.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Apects.Autofac.Validation;
@@ -29,30 +30,13 @@ namespace Business.Concrete
             _categoryService = categoryService;
         }
 
-
-        //[ValidationAspect(typeof (ProductValidator))] 
+        [SecuredOperation("product.add,admin")]
+        [ValidationAspect(typeof (ProductValidator))] 
         //Atribut-Add metodunu run etmemisden evvel Atributu ise sal 
         //Meselen: ProductValidator atributu ile dogralama et sonra Add metodunu run et
         public IResult Add(Product product)
         {
-            #region Validation Temel kod
-            //var context = new ValidationContext<Product>(product); (Product-<T> tipinden,(product- gonderilen entity)
-            //dogrulama edecem)
-            //ProductValidator productValidator = new ProductValidator();(ProdcutValidatorda yoxlayaraq dogrulama edecem)
-            //var result = productValidator.Validate(context);  (context=product)  yeniki gonderilen context
-            //validatorda yoxlanilir.
-            //if (!result.IsValid) //eger sertler odenmirse
-            //{
-            //    throw new ValidationException(result.Errors); //error qaytar
-            //}
-
-            //Asagida bunu Tool halinda diger proyektler ucunde Generic yapacayiq
-            #endregion
-
-            #region Validation manuel kod
-            //ValidationTool.Validate(new ProductValidator(), product);
-            //(Product tipinde gonderilen productu yoxlamaq ucun,ValidationTooldan Validate metodunu cagir.
-            #endregion
+           
             //Validation kodlarini business de deyl Aspect de calistiraq
 
             IResult result = BusinessRules.Run(CheckIfProductofCategoryCorrect(product.CategoryId)
