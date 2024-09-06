@@ -1,6 +1,0 @@
-@AliCars.Api_HostAddress = http://localhost:5086
-
-GET {{AliCars.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
