@@ -17,7 +17,8 @@ namespace TraversalProject.Controllers
         [HttpGet]
         public IActionResult DestinationDetails(int id) 
         {
-            return View();
+            var values = destinationManager.GetByID(id);
+            return View(values);
         }
 
         [HttpPost]
