@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\areas\\member\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\member\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\areas\\member\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\member\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\areas\\member\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\member\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\views\\login\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:views\\login\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:views\\login\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\areas\\member\\views\\reservation\\newreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\member\\views\\reservation\\newreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "Areas\\Member\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "Areas\\Member\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:07:36.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Member\\Views\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Profile\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Member\\Views\\Profile\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T13:08:00.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Views\\Login\\SignIn.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\SignIn.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Views\\Login\\SignIn.cshtml",
-              "RelativeToolTip": "Views\\Login\\SignIn.cshtml",
+              "Title": "NewReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
+              "RelativeToolTip": "Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T13:06:00.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Views\\Login\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Views\\Login\\SignUp.cshtml",
-              "RelativeToolTip": "Views\\Login\\SignUp.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T13:05:36.522Z",
+              "WhenOpened": "2024-09-18T13:06:29.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwEUAAAAyAAAAAAAAAA==",
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Areas\\Member\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Areas\\Member\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:58:15.575Z",
+              "WhenOpened": "2024-09-18T13:00:01.33Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },
