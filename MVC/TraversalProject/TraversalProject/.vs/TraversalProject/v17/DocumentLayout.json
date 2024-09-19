@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\areas\\member\\views\\reservation\\myapprovalreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\member\\views\\reservation\\myapprovalreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9E7085-6B79-44EE-847A-29DC4DE13D7D}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\businesslayer\\concrete\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalproject\\areas\\member\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\member\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,33 +28,59 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationManager.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\BusinessLayer\\Concrete\\ReservationManager.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Concrete\\ReservationManager.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\BusinessLayer\\Concrete\\ReservationManager.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Concrete\\ReservationManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:24:05.52Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewReservation.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
-              "RelativeToolTip": "Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MyApprovalReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
+              "RelativeToolTip": "Areas\\Member\\Views\\Reservation\\MyApprovalReservation.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T13:06:29.01Z",
+              "WhenOpened": "2024-09-19T12:00:05.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReservationController.cs",
               "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Controllers\\ReservationController.cs",
               "RelativeDocumentMoniker": "Areas\\Member\\Controllers\\ReservationController.cs",
               "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Controllers\\ReservationController.cs",
               "RelativeToolTip": "Areas\\Member\\Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:00:01.33Z",
+              "WhenOpened": "2024-09-19T10:50:12.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
+              "RelativeToolTip": "Areas\\Member\\Views\\Reservation\\NewReservation.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T08:15:43.387Z",
               "EditorCaption": ""
             }
           ]
