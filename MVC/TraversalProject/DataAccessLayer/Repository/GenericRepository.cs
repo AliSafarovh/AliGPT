@@ -41,6 +41,7 @@ namespace DataAccessLayer.Repository
         {
             using var c = new Context();
             c.Update(entity);
+            c.SaveChanges();
         }
 
         List<T> IGenericDal<T>.GetListByFilter(Expression<Func<T, bool>> filter)
