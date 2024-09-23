@@ -12,7 +12,7 @@ namespace TraversalProject.Areas.Member.Controllers
         {
             _userManager = userManager;
         }
-        public async Task<IActionResult> IndexAsync()
+        public async Task<IActionResult> Index()
         {
 			var values = await _userManager.FindByNameAsync(User.Identity.Name);
             ViewBag.Username = values.Name + " " + values.Surname;    
