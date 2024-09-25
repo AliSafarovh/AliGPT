@@ -13,24 +13,24 @@ namespace BusinessLayer.Concrete
     {
 
         IDestinationDal _destinationalDal;
-            public DestinationManager(IDestinationDal destinationDal)
+        public DestinationManager(IDestinationDal destinationDal)
         {
             _destinationalDal = destinationDal;
         }
         public void Add(Destination entity)
         {
-            throw new NotImplementedException();
+            _destinationalDal.Insert(entity);
         }
 
         public void Delete(Destination entity)
         {
-            throw new NotImplementedException();
+           _destinationalDal.Delete(entity);
         }
 
         public Destination GetByID(int id)
         {
            return _destinationalDal.GetById(id);
-        }
+        }   
 
         public List<Destination> GetList()
         {
@@ -39,7 +39,7 @@ namespace BusinessLayer.Concrete
 
         public void Update(Destination entity)
         {
-            throw new NotImplementedException();
+            _destinationalDal.Update(entity);
         }
     }
 }

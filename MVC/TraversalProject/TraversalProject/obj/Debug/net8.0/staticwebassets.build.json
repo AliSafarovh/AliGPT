@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7osaBZiHFDO6chiiMBZ97yMRwgeMsZ1HWkmO+bwzdEs=",
+  "Hash": "5rt3IanQLOPCQH43QRb+w6vtYGuS8C10GKggKKg7Wt0=",
   "Source": "TraversalProject",
   "BasePath": "_content/TraversalProject",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\wwwroot\\assets\\images\\b4.jpg",
+      "SourceId": "TraversalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\wwwroot\\",
+      "BasePath": "_content/TraversalProject",
+      "RelativePath": "assets/images/b4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\b4.jpg"
     },
     {
       "Identity": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\wwwroot\\assets\\images\\banner1.jpg",

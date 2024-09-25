@@ -26,8 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalProject
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Areas/Admin/Views/Destination/AddDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25cQWRkRGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Areas/Admin/Views/Destination/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Areas/Admin/Views/Destination/UpdateDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25cVXBkYXRlRGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Areas/Member/Views/Comment/Index.cshtml]
@@ -64,6 +76,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Areas/Member/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Views/Admin/PartialAppBrandDemo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbEFwcEJyYW5kRGVtby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Views/Admin/PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Views/Admin/PartialHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbEhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Views/Admin/PartialNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbE5hdkJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Views/Admin/PartialScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbFNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Views/Admin/PartialSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbFNpZGVCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalProject/Views/Comment/AddComment.cshtml]

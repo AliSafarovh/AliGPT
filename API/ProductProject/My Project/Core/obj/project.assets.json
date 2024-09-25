@@ -2750,11 +2750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\API\\ProductProject\\My Project\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\ProductProject\\My Project\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\ProductProject\\My Project\\Core\\obj\\",
+      "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\ProductProject\\My Project\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

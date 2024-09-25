@@ -457,6 +457,10 @@
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
+      "Id": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\wwwroot\\assets\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\b4.jpg"
+    },
+    {
       "Id": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalProject\\wwwroot\\assets\\images\\banner1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner1.jpg"
     },
