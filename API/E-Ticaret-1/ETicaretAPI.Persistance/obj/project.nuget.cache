@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8xfuyFUBQM=",
+  "dgSpecHash": "0dYFZY0jnfk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samun\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\samun\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

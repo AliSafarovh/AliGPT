@@ -23,20 +23,20 @@ namespace BusinessLayer.Concrete
 
         public void Delete(Comment entity)
         {
-            throw new NotImplementedException();
+            _commentDal.Delete(entity);
         }
 
         public Comment GetByID(int id)
         {
-            throw new NotImplementedException();
+            return _commentDal.GetById(id);
         }
 
         public List<Comment> GetList()
         {
-            throw new NotImplementedException();
+            return _commentDal.GetList();
         }
 
-        public List<Comment> TGetByDestinationId(int id)
+        public List<Comment> GetByDestinationId(int id)
         {
             return _commentDal.GetListByFilter(x => x.DestinationId == id);
         }
@@ -44,6 +44,11 @@ namespace BusinessLayer.Concrete
         public void Update(Comment entity)
         {
             throw new NotImplementedException();
+        }
+
+        public List<Comment> GetListCommentWithDestination()
+        {
+           return _commentDal.GetListCommentWithDestination();
         }
     }
 }

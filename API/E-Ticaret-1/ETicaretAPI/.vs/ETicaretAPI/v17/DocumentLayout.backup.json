@@ -1,41 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1549DE22-ABD5-438A-97A7-AAE2E8B3D406}|..\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.persistance\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61DCA534-1FA3-4E1C-95E5-2146BF97191A}|..\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61DCA534-1FA3-4E1C-95E5-2146BF97191A}|..\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61DCA534-1FA3-4E1C-95E5-2146BF97191A}|..\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61DCA534-1FA3-4E1C-95E5-2146BF97191A}|..\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703D479-6972-4C04-B819-D6E0C7E43E86}|..\\ETicaretAPI.WebApi\\ETicaretAPI.WebApi.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1549DE22-ABD5-438A-97A7-AAE2E8B3D406}|..\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703D479-6972-4C04-B819-D6E0C7E43E86}|..\\ETicaretAPI.WebApi\\ETicaretAPI.WebApi.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDDE57E-948A-469E-8CEB-F292E5423D89}|..\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.aplication\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDDE57E-948A-469E-8CEB-F292E5423D89}|..\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.aplication\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDDE57E-948A-469E-8CEB-F292E5423D89}|..\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj|c:\\users\\samun\\desktop\\myproject\\e-ticaret\\eticaretapi.aplication\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -43,154 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.WebApi\\Program.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T13:17:42.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Persistance\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T13:14:58.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.WebApi\\appsettings.json",
-              "RelativeToolTip": "..\\ETicaretAPI.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T13:06:50.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:34:03.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:33:55.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:33:48.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:32:22.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\Configuration.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Persistance\\Configuration.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\Configuration.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Persistance\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:00:19.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\Repositories\\IWriteRepository.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Aplication\\Repositories\\IWriteRepository.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\Repositories\\IWriteRepository.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Aplication\\Repositories\\IWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:55:05.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\Repositories\\IReadRepository.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Aplication\\Repositories\\IReadRepository.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\Repositories\\IReadRepository.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Aplication\\Repositories\\IReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:21:57.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\ETicaretAPI.Aplication\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "..\\ETicaretAPI.Aplication\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:18:16.171Z",
-              "EditorCaption": ""
             }
           ]
         },

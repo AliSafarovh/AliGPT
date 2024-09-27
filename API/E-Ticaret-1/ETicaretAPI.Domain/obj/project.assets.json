@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
       "projectName": "ETicaretAPI.Domain",
-      "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+      "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
       "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\obj\\",
+      "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

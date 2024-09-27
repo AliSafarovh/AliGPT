@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj": {}
+    "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj": {
+    "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj",
         "projectName": "ETicaretAPI.Aplication",
-        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj",
+        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj",
         "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\obj\\",
+        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
+              "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+    "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
         "projectName": "ETicaretAPI.Domain",
-        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj": {
+    "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj",
         "projectName": "ETicaretAPI.Persistence",
-        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj",
+        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Persistance\\ETicaretAPI.Persistence.csproj",
         "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Persistance\\obj\\",
+        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -170,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj": {
-                "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\E-Ticaret\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj"
+              "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj": {
+                "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\E-Ticaret-1\\ETicaretAPI.Aplication\\ETicaretAPI.Aplication.csproj"
               }
             }
           }

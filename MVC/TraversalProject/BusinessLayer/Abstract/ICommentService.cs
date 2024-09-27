@@ -9,6 +9,7 @@ namespace BusinessLayer.Abstract
 {
     public interface ICommentService : IGenericService<Comment>
     {
-        List<Comment> TGetByDestinationId(int id);
+        List<Comment> GetByDestinationId(int id);
+        List<Comment> GetListCommentWithDestination();
     }
 }

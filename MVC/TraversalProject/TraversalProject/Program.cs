@@ -1,8 +1,14 @@
+using BusinessLayer.Abstract;
+using BusinessLayer.Concrete;
+using BusinessLayer.Container;
+using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
+using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Linq;
 using TraversalProject.Models;
 
 namespace TraversalProject
@@ -18,6 +24,7 @@ namespace TraversalProject
             builder.Services.AddDbContext<Context>();
             builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>()
                 .AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
+            
             builder.Services.AddMvc(config =>
             {
                 var policy = new AuthorizationPolicyBuilder().
@@ -26,6 +33,9 @@ namespace TraversalProject
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
             builder.Services.AddMvc();
+
+            builder.Services.ContainerDependencies();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -36,6 +46,7 @@ namespace TraversalProject
                 app.UseHsts();
             }
 
+            app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404", "?code={0}");
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseAuthentication();
