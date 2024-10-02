@@ -21,6 +21,12 @@ namespace TraversalProject
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddLogging(x =>
+            {
+                x.ClearProviders();
+                x.SetMinimumLevel(LogLevel.Debug);
+                x.AddDebug();
+            });
             builder.Services.AddDbContext<Context>();
             builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>()
                 .AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
@@ -45,6 +51,10 @@ namespace TraversalProject
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+            ILoggerFactory loggerFactory=app.Services.GetRequiredService<ILoggerFactory>();
+            var path =Directory.GetCurrentDirectory();
+            loggerFactory.AddFile($"{path}\\Logs\\Log1.txt");
 
             app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404", "?code={0}");
             app.UseHttpsRedirection();

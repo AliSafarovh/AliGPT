@@ -1,0 +1,12 @@
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\bin\Release\net8.0\DTOLayer.deps.json
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\bin\Release\net8.0\DTOLayer.dll
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\bin\Release\net8.0\DTOLayer.pdb
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\DTOLayer.AssemblyInfo.cs
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\DTOLayer.sourcelink.json
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\DTOLayer.dll
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\refint\DTOLayer.dll
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\DTOLayer.pdb
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\DTOLayer\obj\Release\net8.0\ref\DTOLayer.dll
