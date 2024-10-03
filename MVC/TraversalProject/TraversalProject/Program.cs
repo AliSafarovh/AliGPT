@@ -1,14 +1,10 @@
-using BusinessLayer.Abstract;
-using BusinessLayer.Concrete;
 using BusinessLayer.Container;
-using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
-using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
-using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json.Linq;
+using TraversalProject.Mapping.AutoMapperProfile;
 using TraversalProject.Models;
 
 namespace TraversalProject
@@ -20,7 +16,7 @@ namespace TraversalProject
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
+            
             builder.Services.AddLogging(x =>
             {
                 x.ClearProviders();
@@ -28,9 +24,10 @@ namespace TraversalProject
                 x.AddDebug();
             });
             builder.Services.AddDbContext<Context>();
+            builder.Services.CustomerValidator();
             builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>()
                 .AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
-            
+            builder.Services.AddControllersWithViews().AddFluentValidation();
             builder.Services.AddMvc(config =>
             {
                 var policy = new AuthorizationPolicyBuilder().
@@ -39,7 +36,7 @@ namespace TraversalProject
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
             builder.Services.AddMvc();
-
+            builder.Services.AddAutoMapper(typeof(MapProfile));
             builder.Services.ContainerDependencies();
 
             var app = builder.Build();
