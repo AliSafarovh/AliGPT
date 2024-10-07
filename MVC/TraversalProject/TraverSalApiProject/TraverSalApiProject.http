@@ -1,0 +1,6 @@
+@TraverSalApiProject_HostAddress = http://localhost:5094
+
+GET {{TraverSalApiProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

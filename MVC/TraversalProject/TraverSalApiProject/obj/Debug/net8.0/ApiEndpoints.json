@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "TraverSalApiProject.Controllers.VisitorController",
+    "Method": "VisitorList",
+    "RelativePath": "api/Visitor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TraverSalApiProject.Controllers.VisitorController",
+    "Method": "AddVisitor",
+    "RelativePath": "api/Visitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visitor",
+        "Type": "TraverSalApiProject.DAL.Entities.Visitor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TraverSalApiProject.Controllers.VisitorController",
+    "Method": "UpdateVisitor",
+    "RelativePath": "api/Visitor",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visitor",
+        "Type": "TraverSalApiProject.DAL.Entities.Visitor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TraverSalApiProject.Controllers.VisitorController",
+    "Method": "GetVisitorById",
+    "RelativePath": "api/Visitor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TraverSalApiProject.Controllers.VisitorController",
+    "Method": "DeleteVisitor",
+    "RelativePath": "api/Visitor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
