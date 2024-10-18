@@ -598,3 +598,5 @@ C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalMVCProject\Traver
 C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalMVCProject\TraversalProject\obj\Release\net8.0\TraversalProject.pdb
 C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalMVCProject\TraversalProject\obj\Release\net8.0\TraversalProject.genruntimeconfig.cache
 C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalMVCProject\TraversalProject\obj\Release\net8.0\ref\TraversalProject.dll
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalMVCProject\TraversalProject\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalMVCProject\TraversalProject\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

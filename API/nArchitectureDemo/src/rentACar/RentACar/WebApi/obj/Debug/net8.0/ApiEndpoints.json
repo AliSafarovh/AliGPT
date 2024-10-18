@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.BrandsConttroller",
+    "Method": "Add",
+    "RelativePath": "api/BrandsConttroller",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createBrandCommand",
+        "Type": "Application.Features.Brands.Commands.Create.CreateBrandCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

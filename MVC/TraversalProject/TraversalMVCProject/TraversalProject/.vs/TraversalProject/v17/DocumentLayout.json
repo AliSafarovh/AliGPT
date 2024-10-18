@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\views\\visitorapi\\updatevisitor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\visitorapi\\updatevisitor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\controllers\\visitorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\controllers\\visitorapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\views\\bookinghotelsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\bookinghotelsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\views\\visitorapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\visitorapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\models\\bookinghotelsearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\models\\bookinghotelsearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\views\\visitorapi\\addvisitor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\visitorapi\\addvisitor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\models\\visitorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\models\\visitorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\areas\\admin\\controllers\\bookinghotelsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:areas\\admin\\controllers\\bookinghotelsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,66 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateVisitor.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\VisitorApi\\UpdateVisitor.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\VisitorApi\\UpdateVisitor.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\VisitorApi\\UpdateVisitor.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\VisitorApi\\UpdateVisitor.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T14:54:17.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VisitorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Models\\VisitorViewModel.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\VisitorViewModel.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Models\\VisitorViewModel.cs",
-              "RelativeToolTip": "Areas\\Admin\\Models\\VisitorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vx0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T13:18:47.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddVisitor.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\VisitorApi\\AddVisitor.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\VisitorApi\\AddVisitor.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\VisitorApi\\AddVisitor.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\VisitorApi\\AddVisitor.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvw8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T12:19:41.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\VisitorApi\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\VisitorApi\\Index.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\VisitorApi\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\VisitorApi\\Index.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T11:59:13.822Z",
+              "WhenOpened": "2024-10-10T13:33:31.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VisitorApiController.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Controllers\\VisitorApiController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\VisitorApiController.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Controllers\\VisitorApiController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\VisitorApiController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEQAAAAYAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BookingHotelSearch\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T12:18:10.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingHotelSearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Models\\BookingHotelSearchViewModel.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\BookingHotelSearchViewModel.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Models\\BookingHotelSearchViewModel.cs",
+              "RelativeToolTip": "Areas\\Admin\\Models\\BookingHotelSearchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T11:14:00.205Z",
+              "WhenOpened": "2024-10-10T12:10:21.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingHotelSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BookingHotelSearchController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vxgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:09:18.23Z",
               "EditorCaption": ""
             }
           ]
