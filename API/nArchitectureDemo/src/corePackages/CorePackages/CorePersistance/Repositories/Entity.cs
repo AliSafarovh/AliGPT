@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CorePersistance.Repositories
+namespace Core.Persistence.Repositories
 {
-    public class Entity<TId>
+    public class Entity<TId>:IEntityTimestamps
     {
         public TId Id { get; set; }
         public DateTime CreatedDate { get; set; }

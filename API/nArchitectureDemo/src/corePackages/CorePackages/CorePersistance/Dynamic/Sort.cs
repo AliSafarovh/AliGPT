@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CorePersistance.Dynamic
+namespace Core.Persistence.Dynamic
 {
     public class Sort
-    {
+    {//Sort sinifi isə məlumatları müvafiq sahəyə görə sıralamağı təmin edir(Mes;qiymetleri artan ya azalan sirayla duz)
         public string Field { get; set; }
         public string Dir { get; set; }
 

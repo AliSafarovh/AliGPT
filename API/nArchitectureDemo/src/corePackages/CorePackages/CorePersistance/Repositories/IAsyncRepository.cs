@@ -1,18 +1,14 @@
-﻿using CorePersistance.Dynamic;
-using CorePersistance.Paging;
+﻿using Core.Persistence.Dynamic;
+using Core.Persistence.Paging;
 using Microsoft.EntityFrameworkCore.Query;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CorePersistance.Repositories
+namespace Core.Persistence.Repositories
 {
-    public interface IAsyncRepository<TEntity, TEntityId> where TEntity : Entity<TEntityId>
+    public interface IAsyncRepository<TEntity, TEntityId> : IQuery<TEntity>
+    where TEntity : Entity<TEntityId>
     {
-        Task<TEntity?> GetAync(Expression<Func<TEntity, bool>> predicate,//Brand tipinde Find edir predicate axtarir.(predicate=x=>x.prop)
+        Task<TEntity?> GetAsync(Expression<Func<TEntity, bool>> predicate,//Brand tipinde Find edir predicate axtarir.(predicate=x=>x.prop)
          Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? includable = null,//Func<IQueryable<TEntity>(Brandtipini getir, IIncludableQueryable<TEntity, object>>?(Brand tipindeki modelleride getir) includable = null(model bosda ola biler))
          bool withDeleted = false,//silinmis brandlari getirme
          bool enableTracking = true,//upadte olunmus brand-leride getir.(enableTracking=treu yeni deyisikliyi save et. =false save etme. sadece melumatlari oxu)

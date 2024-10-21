@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="CorePersistance">
-      <HintPath>..\..\..\corePackages\CorePackages\CorePersistance\bin\Debug\net8.0\CorePersistance.dll</HintPath>
+    <Reference Include="Core.Persistence">
+      <HintPath>..\..\..\corePackages\CorePackages\CorePersistance\bin\Debug\net8.0\Core.Persistence.dll</HintPath>
     </Reference>
   </ItemGroup>
 

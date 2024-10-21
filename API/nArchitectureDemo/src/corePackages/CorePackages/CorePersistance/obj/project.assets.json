@@ -6967,9 +6967,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\CorePersistance.csproj",
-      "projectName": "CorePersistance",
-      "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\CorePersistance.csproj",
+      "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Core.Persistence.csproj",
+      "projectName": "Core.Persistence",
+      "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Core.Persistence.csproj",
       "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\obj\\",
       "projectStyle": "PackageReference",
