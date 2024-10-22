@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistance.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistance.csproj|solutionrelative:corepersistance\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistance.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistance.csproj|solutionrelative:corepersistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistance.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistance.csproj|solutionrelative:corepersistance\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|solutionrelative:corepersistance\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|solutionrelative:corepersistance\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|solutionrelative:corepersistance\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\CorePersistence.csproj|solutionrelative:corepersistance\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|solutionrelative:corepersistance\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|solutionrelative:corepersistance\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|solutionrelative:corepersistance\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|solutionrelative:corepersistance\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\corepersistance\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAC54A0-B051-45B5-8E45-230865DDB042}|CorePersistance\\Core.Persistence.csproj|solutionrelative:corepersistance\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.application\\requests\\pagerequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\requests\\pagerequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,157 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EfRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\EfRepositoryBase.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Repositories\\EfRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\EfRepositoryBase.cs",
-              "RelativeToolTip": "CorePersistance\\Repositories\\EfRepositoryBase.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAwAAAAKAAAAAAAAAA==",
+              "Title": "GetListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeToolTip": "Core.Application\\Responses\\GetListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T08:53:45.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DynamicQuery.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\DynamicQuery.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Dynamic\\DynamicQuery.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\DynamicQuery.cs",
-              "RelativeToolTip": "CorePersistance\\Dynamic\\DynamicQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:35:11.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Filter.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\Filter.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Dynamic\\Filter.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\Filter.cs",
-              "RelativeToolTip": "CorePersistance\\Dynamic\\Filter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:35:48.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IQueryableDynamicFilterExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
-              "RelativeToolTip": "CorePersistance\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:35:34.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sort.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\Sort.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Dynamic\\Sort.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Dynamic\\Sort.cs",
-              "RelativeToolTip": "CorePersistance\\Dynamic\\Sort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:35:43.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAsyncRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IAsyncRepository.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Repositories\\IAsyncRepository.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IAsyncRepository.cs",
-              "RelativeToolTip": "CorePersistance\\Repositories\\IAsyncRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIA7wBsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:39:21.217Z",
+              "WhenOpened": "2024-10-22T12:09:23.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "CorePersistance\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIA7wBwAAAAMAAAAAAAAAA==",
+              "Title": "PageRequests.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.Application\\Requests\\PageRequests.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Requests\\PageRequests.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.Application\\Requests\\PageRequests.cs",
+              "RelativeToolTip": "Core.Application\\Requests\\PageRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:39:33.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Paginate.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Paging\\Paginate.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Paging\\Paginate.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Paging\\Paginate.cs",
-              "RelativeToolTip": "CorePersistance\\Paging\\Paginate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:36:40.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IQueryablePaginateExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Paging\\IQueryablePaginateExtensions.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Paging\\IQueryablePaginateExtensions.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Paging\\IQueryablePaginateExtensions.cs",
-              "RelativeToolTip": "CorePersistance\\Paging\\IQueryablePaginateExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:36:31.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IQuery.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IQuery.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Repositories\\IQuery.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IQuery.cs",
-              "RelativeToolTip": "CorePersistance\\Repositories\\IQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:37:20.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IEntityTimestamps.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IEntityTimestamps.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Repositories\\IEntityTimestamps.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\IEntityTimestamps.cs",
-              "RelativeToolTip": "CorePersistance\\Repositories\\IEntityTimestamps.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:37:13.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\Entity.cs",
-              "RelativeDocumentMoniker": "CorePersistance\\Repositories\\Entity.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\CorePersistance\\Repositories\\Entity.cs",
-              "RelativeToolTip": "CorePersistance\\Repositories\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:36:58.679Z",
+              "WhenOpened": "2024-10-22T11:00:05.816Z",
               "EditorCaption": ""
             }
           ]
