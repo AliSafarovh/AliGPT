@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\Telegram ChatGPT.csproj": {}
+    "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Telegram ChatGPT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\Telegram ChatGPT.csproj": {
+    "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Telegram ChatGPT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\Telegram ChatGPT.csproj",
+        "projectUniqueName": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Telegram ChatGPT.csproj",
         "projectName": "Telegram ChatGPT",
-        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\Telegram ChatGPT.csproj",
+        "projectPath": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Telegram ChatGPT.csproj",
         "packagesPath": "C:\\Users\\samun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\obj\\",
+        "outputPath": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,6 +48,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.6.22, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

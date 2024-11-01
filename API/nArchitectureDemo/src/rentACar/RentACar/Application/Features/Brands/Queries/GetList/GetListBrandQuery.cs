@@ -39,6 +39,4 @@ public class GetListBrandQuery:IRequest<GetListResponse<GetListBrandListItemDto>
         }
     }
 
-   
-
 }

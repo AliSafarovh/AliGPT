@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\",
+  "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|c:\\users\\samun\\desktop\\myproject\\chatgpt bot\\telegram chatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|c:\\users\\samun\\desktop\\myproject\\multi tasking (tg bot)\\telegram chatgpt\\ali_gpt(bot)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|solutionrelative:ali_gpt(bot)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|c:\\users\\samun\\desktop\\myproject\\multi tasking (tg bot)\\telegram chatgpt\\key.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|solutionrelative:key.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|c:\\users\\samun\\desktop\\myproject\\multi tasking (tg bot)\\telegram chatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|c:\\users\\samun\\desktop\\myproject\\chatgpt bot\\telegram chatgpt\\key.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4BB314CF-57D3-4299-812D-92E5B08FBFCD}|Telegram ChatGPT.csproj|solutionrelative:key.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\obj\\Debug\\net8.0\\Telegram ChatGPT.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Telegram ChatGPT.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,29 +29,56 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "key.txt",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\key.txt",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\key.txt",
               "RelativeDocumentMoniker": "key.txt",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\key.txt",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\key.txt",
               "RelativeToolTip": "key.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-15T16:21:49.707Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Telegram ChatGPT.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\obj\\Debug\\net8.0\\Telegram ChatGPT.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Telegram ChatGPT.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\obj\\Debug\\net8.0\\Telegram ChatGPT.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Telegram ChatGPT.AssemblyInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:58:43.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Ali_GPT(bot)\\Program.cs",
+              "RelativeDocumentMoniker": "Ali_GPT(bot)\\Program.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Ali_GPT(bot)\\Program.cs",
+              "RelativeToolTip": "Ali_GPT(bot)\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:53:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\ChatGPT Bot\\Telegram ChatGPT\\Program.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\Multi Tasking (Tg Bot)\\Telegram ChatGPT\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -2,8 +2,10 @@ using BusinessLayer.Container;
 using DataAccessLayer.Concrete;
 using EntityLayer.Concrete;
 using FluentValidation.AspNetCore;
+using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using TraversalProject.CQRS.Handlers.DestinationHandlers;
 using TraversalProject.Mapping.AutoMapperProfile;
 using TraversalProject.Models;
 
@@ -23,6 +25,13 @@ namespace TraversalProject
                 x.SetMinimumLevel(LogLevel.Debug);
                 x.AddDebug();
             });
+            builder.Services.AddScoped<GetAllDestinationQueryHandler>();
+            builder.Services.AddScoped<GetDestinationByIdQueryHandler>();
+            builder.Services.AddScoped<CreateDestinationCommandHandler>();
+            builder.Services.AddScoped<RemoveDestinationCommandHandler>();
+            builder.Services.AddScoped<UpdateDestinationCommandHandler>();
+
+            builder.Services.AddMediatR(typeof(Program));
             builder.Services.AddDbContext<Context>();
             builder.Services.CustomerValidator();
             builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>()
