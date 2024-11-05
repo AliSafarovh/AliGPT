@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\persistance\\entityconfigurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|solutionrelative:persistance\\entityconfigurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0935146-EB67-459B-BEA7-D9F16AF7F6E6}|WebApi\\WebApi.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0935146-EB67-459B-BEA7-D9F16AF7F6E6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\persistance\\migrations\\20241030192418_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|solutionrelative:persistance\\migrations\\20241030192418_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|solutionrelative:application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0935146-EB67-459B-BEA7-D9F16AF7F6E6}|WebApi\\WebApi.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0935146-EB67-459B-BEA7-D9F16AF7F6E6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\application\\features\\brands\\rules\\brandbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\rules\\brandbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\persistance\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|solutionrelative:persistance\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|solutionrelative:application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\application\\features\\brands\\constans\\brandmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4E37B1-0A9B-466B-B6AC-7CE2602AD3C7}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\constans\\brandmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\persistance\\contexts\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD32C66E-E12C-47F4-A276-8B1CA2221699}|Persistance\\Persistence.csproj|solutionrelative:persistance\\contexts\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0935146-EB67-459B-BEA7-D9F16AF7F6E6}|WebApi\\WebApi.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\rentacar\\rentacar\\webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0935146-EB67-459B-BEA7-D9F16AF7F6E6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20241030192418_init.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\Migrations\\20241030192418_init.cs",
-              "RelativeDocumentMoniker": "Persistance\\Migrations\\20241030192418_init.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\Migrations\\20241030192418_init.cs",
-              "RelativeToolTip": "Persistance\\Migrations\\20241030192418_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:24:21.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-30T19:19:41.138Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\Repositories\\BrandRepository.cs",
-              "RelativeDocumentMoniker": "Persistance\\Repositories\\BrandRepository.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\Repositories\\BrandRepository.cs",
-              "RelativeToolTip": "Persistance\\Repositories\\BrandRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:29:26.715Z",
+              "WhenOpened": "2024-11-05T08:04:32.097Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:06:20.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBrandCommand.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA5wB0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:55:18.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IBrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Repositories\\IBrandRepository.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
-              "RelativeToolTip": "Application\\Services\\Repositories\\IBrandRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Title": "BrandMessages.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Constans\\BrandMessages.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Constans\\BrandMessages.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Constans\\BrandMessages.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Constans\\BrandMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:24:30.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:19:49.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BrandConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\EntityConfigurations\\BrandConfiguration.cs",
-              "RelativeDocumentMoniker": "Persistance\\EntityConfigurations\\BrandConfiguration.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\EntityConfigurations\\BrandConfiguration.cs",
-              "RelativeToolTip": "Persistance\\EntityConfigurations\\BrandConfiguration.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BrandBusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
+              "RelativeToolTip": "Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:48:54.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T11:11:16.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BaseDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\Contexts\\BaseDbContext.cs",
-              "RelativeDocumentMoniker": "Persistance\\Contexts\\BaseDbContext.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\Persistance\\Contexts\\BaseDbContext.cs",
-              "RelativeToolTip": "Persistance\\Contexts\\BaseDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAdAAAAAAAAAA==",
+              "Title": "ModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\ModelsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ModelsController.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ModelsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:39:16.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T09:13:36.045Z"
             }
           ]
         },

@@ -20,3 +20,5 @@ C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Per
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Persistance\bin\Debug\net8.0\Application.pdb
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Persistance\bin\Debug\net8.0\Core.Application.dll
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Persistance\bin\Debug\net8.0\Core.Application.pdb
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Persistance\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Persistance\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb

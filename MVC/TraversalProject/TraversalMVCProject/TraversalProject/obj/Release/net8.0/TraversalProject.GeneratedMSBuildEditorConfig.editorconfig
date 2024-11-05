@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\samun\Desktop\MyProject\MVC\TraversalProject\TraversalMVCProject\TraversalProject
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalMVCProject/TraversalProject/Areas/Admin/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/samun/Desktop/MyProject/MVC/TraversalProject/TraversalMVCProject/TraversalProject/Areas/Admin/Views/Announcement/AddAnnouncement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5ub3VuY2VtZW50XEFkZEFubm91bmNlbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
