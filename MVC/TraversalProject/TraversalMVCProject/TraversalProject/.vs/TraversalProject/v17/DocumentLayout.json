@@ -3,8 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\views\\shared\\components\\_populardestination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:views\\shared\\components\\_populardestination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DELL/TraversalDb/True/SqlTable/dbo.Guides.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DELL/TraversalDb/True/SqlTable/dbo.Destinations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|c:\\users\\samun\\desktop\\myproject\\mvc\\traversalproject\\traversalmvcproject\\traversalproject\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B12453-7249-4A0B-923E-AAE73C2A1D95}|TraversalProject.csproj|solutionrelative:controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +36,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Views\\Shared\\Components\\_PopularDestination\\Default.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_PopularDestination\\Default.cshtml",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Views\\Shared\\Components\\_PopularDestination\\Default.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Components\\_PopularDestination\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T18:23:32.068Z",
+              "DocumentIndex": 1,
+              "Title": "dbo.Guides [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DELL/TraversalDb/True/SqlTable/dbo.Guides.sql",
+              "ToolTip": "dbo.Guides [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-06T09:51:10.995Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Destinations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DELL/TraversalDb/True/SqlTable/dbo.Destinations.sql",
+              "ToolTip": "dbo.Destinations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-06T09:42:36.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Views\\Destination\\DestinationDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destination\\DestinationDetails.cshtml",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Views\\Destination\\DestinationDetails.cshtml",
+              "RelativeToolTip": "Views\\Destination\\DestinationDetails.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAKAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:48:26.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Views\\Destination\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Views\\Destination\\Index.cshtml",
+              "RelativeToolTip": "Views\\Destination\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:08:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\MVC\\TraversalProject\\TraversalMVCProject\\TraversalProject\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "Controllers\\DestinationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:54:31.129Z"
             }
           ]
         },

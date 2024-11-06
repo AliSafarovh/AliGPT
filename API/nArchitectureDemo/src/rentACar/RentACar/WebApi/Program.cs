@@ -28,7 +28,7 @@ namespace WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            if(app.Environment.IsProduction()) 
+            //if(app.Environment.IsProduction())   //create metodu bura girmezse altdakini islet
             app.ConfigureCustomExceptionMiddleware();
 
             app.UseHttpsRedirection();

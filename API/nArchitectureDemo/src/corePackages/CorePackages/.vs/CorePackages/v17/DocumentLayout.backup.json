@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\handlers\\exceptionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\exceptionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\types\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +43,12 @@
       "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25798079-1A40-48A7-81EF-14D833FC5C70}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\rules\\basebusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\users\\samun\\desktop\\myproject\\api\\narchitecturedemo\\src\\corepackages\\corepackages\\core.crosscuttingconcerns\\exceptions\\handlers\\exceptionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59300BC9-DC1F-46F1-887F-41D580771A66}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\exceptionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,44 +67,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExceptionMiddlewareExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ValidationProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:01:11.295Z",
+              "WhenOpened": "2024-11-06T13:05:09.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HttpExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:48:40.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvxMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:33:24.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InternalServerErrorProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:53:54.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:52:13.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:23:35.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:07:16.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
               "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
               "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T07:53:17.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InternalServerErrorProblemDetails.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:48:51.647Z"
+              "WhenOpened": "2024-11-05T08:01:11.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ProblemDetailsExtensions.cs",
               "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
               "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
@@ -105,43 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BusinessProblemDetails.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:33:57.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HttpExceptionHandler.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:48:40.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExceptionsHandler.cs",
-              "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
-              "ToolTip": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionsHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:33:24.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "BaseBusinessRules.cs",
               "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.Application\\Rules\\BaseBusinessRules.cs",
               "RelativeDocumentMoniker": "Core.Application\\Rules\\BaseBusinessRules.cs",
@@ -149,11 +204,12 @@
               "RelativeToolTip": "Core.Application\\Rules\\BaseBusinessRules.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:01:00.331Z"
+              "WhenOpened": "2024-11-04T12:01:00.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "BusinessException.cs",
               "DocumentMoniker": "C:\\Users\\samun\\Desktop\\MyProject\\API\\nArchitectureDemo\\src\\corePackages\\CorePackages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
               "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
@@ -161,7 +217,8 @@
               "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T11:46:27.982Z"
+              "WhenOpened": "2024-11-04T11:46:27.982Z",
+              "EditorCaption": ""
             }
           ]
         },

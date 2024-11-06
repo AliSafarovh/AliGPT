@@ -27,7 +27,7 @@ namespace Application.Features.Brands.Commands.Create
 
         public async Task<CreatedBrandResponse>? Handle(CreateBrandCommand request, CancellationToken cancellationToken)//Handler sinfi, MediatR vasitəsilə gələn əmrləri (command) qarşılayır
         {
-            await _brandBusinessRules.BrandNameCannotBeDuplicatedWhenInserted(request.Name);
+            await _brandBusinessRules.BrandNameCannotBeDuplicatedWhenInserted(request.Name);  //3cu-eger ad eyni olarsa
 
             Brand brand = _mapper.Map<Brand>(request);
             brand.Id = Guid.NewGuid();

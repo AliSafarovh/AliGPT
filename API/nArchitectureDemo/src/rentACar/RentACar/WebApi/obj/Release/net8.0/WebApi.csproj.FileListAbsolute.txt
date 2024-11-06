@@ -159,3 +159,7 @@ C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Web
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Release\net8.0\WebApi.pdb
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Release\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Release\net8.0\ref\WebApi.dll
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Release\net8.0\Infrastructure.dll
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Release\net8.0\Infrastructure.pdb
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Release\net8.0\FluentValidation.dll
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll

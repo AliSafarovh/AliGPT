@@ -26,7 +26,7 @@ namespace Application.Features.Brands.Rules
             Brand? result = await _brandRepository.GetAsync(predicate: b => b.Name.ToLower() == name.ToLower());
             if (result != null)
             {
-                throw new BusinessException(BrandMessages.BrandNameExists);
+                throw new BusinessException(BrandMessages.BrandNameExists); //eger adlar eyni olarsa BrandMessage qaytar.
             }
 
         }
