@@ -159,3 +159,7 @@ C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\Web
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
 C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\samun\Desktop\MyProject\API\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Infrastructure.pdb

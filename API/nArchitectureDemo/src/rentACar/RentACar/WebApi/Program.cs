@@ -16,6 +16,10 @@ namespace WebApi
             builder.Services.AddControllers();
             builder.Services.AddAplicationServices();
             builder.Services.AddPersistenceServices(builder.Configuration);
+
+            //builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddStackExchangeRedisCache(opt => opt.Configuration = "localhost:6379");
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
