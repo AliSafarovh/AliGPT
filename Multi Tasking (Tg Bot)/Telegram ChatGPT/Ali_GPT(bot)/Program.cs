@@ -99,8 +99,9 @@ namespace Ali_GPT_bot_
 		{
 			try
 			{
-				var openAi = new OpenAIAPI(Key.Token);
-				var compilation = await openAi.Completions.CreateCompletionAsync(question, temperature: 0, max_tokens: 500);
+                var openAi = new OpenAIAPI(Key.Token);
+
+                var compilation = await openAi.Completions.CreateCompletionAsync(question, temperature: 0, max_tokens: 500);
 				string response = compilation.Completions[0].Text;
 				return response;
 			}

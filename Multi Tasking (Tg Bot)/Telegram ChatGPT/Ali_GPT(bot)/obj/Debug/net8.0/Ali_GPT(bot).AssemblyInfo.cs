@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ali_GPT(bot)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f73f65fe5416cc00e181bef537ad5ad971bc90d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5249fee3420302c33fdbaeebc0b9ee7f688e0d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ali_GPT(bot)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ali_GPT(bot)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

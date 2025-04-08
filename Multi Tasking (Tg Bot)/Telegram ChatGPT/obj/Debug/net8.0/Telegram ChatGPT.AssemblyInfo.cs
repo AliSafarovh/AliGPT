@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Telegram ChatGPT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c0c1119a87563e3760ef4c5b6a72854a535a63f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5249fee3420302c33fdbaeebc0b9ee7f688e0d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Telegram ChatGPT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Telegram ChatGPT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
