@@ -1,6 +1,0 @@
-C:\Users\samun\Desktop\MyProject\Multi Tasking (Tg Bot)\Telegram ChatGPT\obj\Debug\net8.0\Telegram ChatGPT.csproj.AssemblyReference.cache
-C:\Users\samun\Desktop\MyProject\Multi Tasking (Tg Bot)\Telegram ChatGPT\obj\Debug\net8.0\Telegram ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\samun\Desktop\MyProject\Multi Tasking (Tg Bot)\Telegram ChatGPT\obj\Debug\net8.0\Telegram ChatGPT.AssemblyInfoInputs.cache
-C:\Users\samun\Desktop\MyProject\Multi Tasking (Tg Bot)\Telegram ChatGPT\obj\Debug\net8.0\Telegram ChatGPT.AssemblyInfo.cs
-C:\Users\samun\Desktop\MyProject\Multi Tasking (Tg Bot)\Telegram ChatGPT\obj\Debug\net8.0\Telegram ChatGPT.csproj.CoreCompileInputs.cache
-C:\Users\samun\Desktop\MyProject\Multi Tasking (Tg Bot)\Telegram ChatGPT\obj\Debug\net8.0\Telegram ChatGPT.sourcelink.json
